@@ -11,9 +11,9 @@ function Item(props) {
 
 function App() {
   return <div>
-    <Item name="Cheese" price="4.99" />
-    <Item name="Bread" price="1.5" />
-    <Item name="Ice cream" price="24" />
+    <Item name="Coconut Bread" price="4.99" />
+    <Item name="Chocolate Bread" price="1.5" />
+    <Item name="Butter Bread" price="24" />
   </div>;
 }
 
