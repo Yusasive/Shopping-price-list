@@ -11,7 +11,7 @@ function Item(props) {
 
 function App() {
   return <div>
-    <Item name="Coconut Bread" price="4.99" />
+    <Item name="Coconut Bread" price="4.06" />
     <Item name="Chocolate Bread" price="1.5" />
     <Item name="Butter Bread" price="24" />
   </div>;
